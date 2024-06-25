@@ -1,7 +1,3 @@
-Ivanpah 1 monthly,
-https://www.eia.gov/electricity/data/browser/#/plant/57074?freq=M&start=201601&end=202403&ctype=linechart&ltype=pin&maptype=0&pin=&columnchart=ELEC.PLANT.GEN.57074-ALL-ALL.M&linechart=ELEC.PLANT.GEN.57074-SUN-ALL.M,
-22:47:28 GMT-0700 (Pacific Daylight Time),
-Data source: U.S. Energy Information Administration,
 Month,Net generation-all primemovers- megawatthours
 24-Mar,13789
 24-Feb,8490
